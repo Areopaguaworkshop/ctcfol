@@ -2,8 +2,7 @@
  教父原文中译计划
  袁永甲著
 光从东方来出版社
-![image](https://github.com/Areopaguaworkshop/ctcfol/assets/138816467/300268db-6ca0-4f1e-a509-11506b2b792f)
-
+网址：www.ctcfol.org, 或者 www.areopagusworkshop.uk
 介绍
 我们需要你
 你想从原文翻译教父著作？来吧，这个手册就是为你而写。对，就是你。
